@@ -52,4 +52,4 @@ $ git checkout ch$ID
 # check&grade OS in ch$ID with more tests
 $ cd ci-user && make test CHAPTER=$ID
 ```
-Notice: $ID is from [3,4,5,6,8]
+Notice: $ID is from [3,4,5,6,8] 
